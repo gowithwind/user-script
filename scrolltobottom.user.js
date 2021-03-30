@@ -11,6 +11,6 @@
 (function() {
     'use strict';
     window.scrollTo(0,document.body.scrollHeight);
-    console.log("Scroll to bottom");
+    console.log("Scroll to bottom TEST");
     // Your code here...
 })();
